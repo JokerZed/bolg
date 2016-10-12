@@ -1,1 +1,7 @@
-{"name":"Joker","tagline":"joker 的博客","body":"# joker.github.io\r\njoker 的博客\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Joker",
+  "tagline": "joker 的博客",
+  "body": "# joker.github.io\r\njoker 的博客\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
